@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <b> Languages and Tools:</b>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
  
 <h3 align="left"></h3>
 <div align="center">  
