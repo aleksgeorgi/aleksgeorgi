@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 
-<table><tr><td valign="center" width="50%">
+<table><tr><td valign="top" width="100%">
  
-<h3 align="left"></h3>
+<h3 align="left">working proficiency</h3>
 <div align="center">  
   
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
