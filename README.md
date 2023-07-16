@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 - 🔭 I’m currently working on ML Research with Dr. Jonathan Gryak on predicting food allergies 
-- 🌱 I’m currently learning getting Microsoft Certified in Azure 
+- 🌱 I’m currently getting Microsoft Certified in Azure 
 - 👯 I’m looking to collaborate on building music technology and AI!
 - 💬 Ask me about how music and computer science are similar!
 - 📫 How to reach me: aleksgeorgi@gmail.com
