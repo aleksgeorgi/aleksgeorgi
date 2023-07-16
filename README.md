@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+<img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner4.png">
+
 - 🔭 I’m currently working on ML Research with Dr. Jonathan Gryak on predicting food allergies 
 - 🌱 I’m currently getting Microsoft Certified in Azure 
 - 👯 I’m looking to collaborate on building music technology and AI!
@@ -7,8 +9,6 @@
 - 📫 How to reach me: aleksgeorgi@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have 9 songs circulating in movies around the planet! 
-
-<img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner4.png">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
