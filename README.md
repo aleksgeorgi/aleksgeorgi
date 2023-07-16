@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner2.png">
-
+<img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner3.png">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<!USE THIS: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5>  
+<!USE THIS: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5>
 <!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates-->
