@@ -36,7 +36,6 @@
 
   <img style="margin: 10px" src="https://i.imgur.com/bpXbsrR.png" title="Windows OS" height="50" />
 
-
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
@@ -44,6 +43,8 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+
+  <img style="margin: 10px" src="https://i.imgur.com/sZLnQBi.jpg" alt="R" height="50" />
 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 
