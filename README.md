@@ -1,19 +1,12 @@
 ### Hello! 👋
 
-<!--
-**aleksgeorgi/aleksgeorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ML Research with Dr. Jonathan Gryak on predicting food allergies 
+- 🌱 I’m currently learning getting Microsoft Certified in Azure 
+- 👯 I’m looking to collaborate on building music technology and AI!
+- 💬 Ask me about how music and computer science are similar!
+- 📫 How to reach me: aleksgeorgi@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have 9 songs circulating in movies around the planet! 
 
 <img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner4.png">
 
