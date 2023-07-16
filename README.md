@@ -2,7 +2,7 @@
 
 <img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner4.png">
 
-- 🔭 I’m currently working on ML Research with Dr. Jonathan Gryak on predicting food allergies
+- 🔭 I’m currently working on ML Research with Dr. Jonathan Gryak for predicting food allergies
 - 🌱 I’m currently getting Microsoft Certified in Azure
 - 👯 I’m looking to collaborate on building music technology and AI!
 - 💬 Ask me about how music and computer science are similar!
