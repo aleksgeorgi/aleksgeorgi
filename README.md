@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner.png">
+<img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner2.png">
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
