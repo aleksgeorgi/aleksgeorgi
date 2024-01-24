@@ -4,7 +4,9 @@
 
 With over two years of experience in Data Science and Software Engineering, I'm passionate about applying my skills and knowledge to generate objective insights and contribute to responsible decision making.
 
-Completing my Computer Science degree from CUNY Queens College in December 2023 has provided me with a robust technical foundation, enriched by three notable programs (Break Through Tech AI, CUNY Tech Prep Data Science, and the Data Science Summer School with Microsoft Research) and a ML research position with Dr. Jonathan Gryak in 2023. My broad technical insight, combined with my background in Music Production & Engineering from Berklee College of Music, creates a unique blend of creative problem solving and analogous thinking skills, which allows me to contribute a fresh and creative perspective within the evolving technological landscape.
+Completing my Computer Science degree from CUNY Queens College in December 2023 has provided me with a robust technical foundation, enriched by three notable programs (Break Through Tech AI, CUNY Tech Prep Data Science, and the Data Science Summer School with Microsoft Research) and a ML research position with Dr. Jonathan Gryak in 2023.
+
+My broad technical insight, combined with my background in Music Production & Engineering from Berklee College of Music, creates a unique blend of creative problem solving and analogous thinking skills, which allows me to contribute a fresh and creative perspective within the evolving technological landscape.
 
 [visit my website](https://aleksgeorgi.github.io/)
 
