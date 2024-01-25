@@ -2,7 +2,7 @@
 
 <img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner20240124.png">
 
-over two years of experience in Data Science and Software Engineering, I'm passionate about elevating data integrity, fostering ethical decision-making, and leveraging the strength of interdisciplinary thinking.  
+With over two years of experience in Data Science and Software Engineering, I'm passionate about elevating data integrity, fostering ethical decision-making, and leveraging the strength of interdisciplinary thinking.  
 
 Having graduated with a Computer Science degree from CUNY Queens College in December 2023, I have built a strong technical foundation, further enhanced by a research internship in machine learning with Dr. Jonathan Gryak and excelling in three significant developmental programs: Break Through Tech AI, CUNY Tech Prep - Data Science, and the Data Science Summer School at Microsoft Research. This, combined with my background in music writing and production from Berklee College of Music, equips me with a distinct blend of creativity and problem-solving abilities that I apply to the dynamic tech landscape of today.  
 
