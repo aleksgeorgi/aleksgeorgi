@@ -1,6 +1,4 @@
-### Hello! 👋
-
-<img src="https://github.com/aleksgeorgi/aleksgeorgi/blob/main/images/AGGithubBanner20240124.png">
+### Hello! I'm Aleks 👋
 
 With over two years of experience in Data Science and Software Engineering, I'm passionate about elevating data integrity, fostering ethical decision-making, and leveraging the strength of interdisciplinary thinking.  
 
