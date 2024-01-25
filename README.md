@@ -15,8 +15,7 @@ I'm currently applying to full time roles in Data Science, Data Engineering, Mac
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <a href="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksgeorgi&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="380"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksgeorgi&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="380">
   <a href="https://github.com/aleksgeorgi/">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aleksgeorgi&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" width="450"/></a>
 </p>
