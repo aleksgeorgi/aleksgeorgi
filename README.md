@@ -1,8 +1,12 @@
 ### Hello! I'm Aleks 👋
 
-With over two years of experience in Data Science and Software Engineering, I'm passionate about elevating data integrity, fostering ethical decision-making, and leveraging the strength of interdisciplinary thinking. Having graduated cum laude with a Computer Science degree from CUNY Queens College in December 2023, I have built a strong technical foundation, further enhanced by a research internship in machine learning with Dr. Jonathan Gryak and excelling in three significant developmental programs: Break Through Tech AI, CUNY Tech Prep - Data Science, and the Data Science Summer School at Microsoft Research. This, combined with my background in music writing and production from Berklee College of Music, equips me with a distinct blend of creativity and problem-solving abilities that I apply to the dynamic tech landscape of today.  
+With over two years of experience in Data Science and Software Engineering, I'm passionate about fostering ethical and efficient decision-making and leveraging the strength of interdisciplinary thinking.
 
-I'm currently working as a tech consultant in data science and software development in New York City and teaching as an Adjunct Lecturer for the Computer Science Department at CUNY Queens College but am open to full time roles in Data Science, Data Engineering, Machine Learning, and backend Software Engineering.  
+Having graduated cum laude in Computer Science from CUNY Queens College (12/2023), I have built strong technical foundations, enhanced by a ML research internship with Dr. Jonathan Gryak and three significant developmental programs: Break Through Tech AI, CUNY Tech Prep, and DS3 at Microsoft Research. This, combined with my previous career in music, equips me with a distinct blend of resilience, creativity, and problem-solving capabilities that serve me in today’s ever-changing tech landscape.
+
+My current career goal is to expand my technical and business knowledge across diverse sectors in order to build transferable skills and manage complex problems impacting overall global wellness, from the arts to sustainability. I’m particularly interested in privacy, promoting equity, and lowering barriers of entry to user-technology relationships. I consider interdisciplinary collaboration and mentorship high priorities when evaluating career opportunities and strive to be an equal asset to future employers, teams, and mentees.
+
+I'm currently working as a Full Stack Data Science consultant but open to full time roles in the same, Data Engineering, Machine Learning, and backend Software Engineering.
 
 [visit my website](https://aleksgeorgi.github.io/)
 
