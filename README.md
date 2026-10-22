@@ -1,12 +1,10 @@
 ### Hello! I'm Aleks 👋
 
-With over two years of experience in Applied Data Science/ML/AI and Software Engineering, I'm passionate about leveraging my interdisciplinary background to build solutions.
+My career spans recording studios, touring, leadership, and building software from the ground up. Since transitioning into computer science in 2020, I’ve developed data and ML products in the VC and startup space, contributed to published research, and taught undergraduate and graduate programming courses. Today, I bring that technical depth and customer perspective to Product Solutions at EliseAI, translating operational needs into solutions and investigating and communicating complex product issues. I help put AI to work in housing, reducing friction for operators and improving the everyday experience of finding and living in a home.
 
-Having graduated cum laude in Computer Science from CUNY Queens College (Dec 2023), I have built strong technical foundations through two Machine Learning research internships with Dr. Jonathan Gryak and three significant professional developmental programs: Break Through Tech AI, CUNY Tech Prep (Data Science), and Data Science Summer School at Microsoft Research in NYC. Combining with my previous career in music as an audio engineer, songwriter, and multi-instrumenatlist, I'm equiped with a distinct blend of resilience, creativity, and problem-solving capabilities that gives me resilience in today’s tech landscape.
-
-My current career goal is to expand my technical and business knowledge across diverse sectors in order to build transferable skills and manage complex problems impacting overall global wellness, from finance to the arts. I consider collaboration and mentorship high priorities when evaluating career opportunities and strive to be an equal asset to future employers, teams, and mentees.
-
-I'm currently working as a Full Stack Data Science Consultant but pursuing Full-Time roles in the same, Data Engineering, Applied ML/AI, and Back-End Software Engineering.
+PUBLICATIONS
+“Prediction of Pediatric Peanut Oral Food Challenge Outcomes Using Machine Learning”, Gryak et al., JACI:Global, April 2024
+“MDBench: Benchmarking Data-Driven Methods for Model Discovery”, A. Z. Bideh et al., (AAAI, 2026)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
