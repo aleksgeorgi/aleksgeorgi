@@ -1,10 +1,6 @@
 ### Hello! I'm Aleks 👋
 
-My career spans recording studios, touring, leadership, and building software from the ground up. Since transitioning into computer science in 2020, I’ve developed data and ML products in the VC and startup space, contributed to published research, and taught undergraduate and graduate programming courses. Today, I bring that technical depth and customer perspective to Product Solutions at EliseAI, translating operational needs into solutions and investigating and communicating complex product issues. I help put AI to work in housing, reducing friction for operators and improving the everyday experience of finding and living in a home.
-
-PUBLICATIONS 
-- “Prediction of Pediatric Peanut Oral Food Challenge Outcomes Using Machine Learning”, Gryak et al., JACI:Global, April 2024
-- “MDBench: Benchmarking Data-Driven Methods for Model Discovery”, A. Z. Bideh et al., (AAAI, 2026)
+My career spans recording studios, touring, leadership, and building software from the ground up. Since transitioning into computer science in 2020, I’ve developed data and ML products in the VC and startup space, contributed to published research, and taught undergraduate and graduate programming courses. At EliseAI, I brought that technical depth and customer perspective to AI in housing by evaluating live AI conversations, diagnosing complex product issues, and translating customer needs into product improvements. Today, I'm continuing that work as a Senior AI Solutions Engineer at Motion Source, partnering with customers and engineers to design and deliver AI solutions from discovery through implementation.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
